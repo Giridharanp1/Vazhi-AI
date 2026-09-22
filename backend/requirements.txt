@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+websockets
+SQLAlchemy
+numpy
+pandas
+networkx
+scipy
